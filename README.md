@@ -1,4 +1,4 @@
 # hello-world
 Tutorial Repository
 
-Fast and diry edit to the readme for tutorial reasons.
+Fast and dirty edit to the readme for tutorial reasons.
